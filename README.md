@@ -4,4 +4,4 @@ I'm an engineering student in Applied Physics, Electronics & Telecommunications 
 I'm obsessed with electrical engineering and computer science.
 
 - 🔗 Connect with me on LinkedIn (Anass BARKI) : https://linkedin.com/in/anass-barki
-🦉 A wise footballer once said : "Talent without hardwork is nothing".
+--> 🦉 A wise footballer once said : "Talent without hardwork is nothing".
